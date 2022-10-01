@@ -1,0 +1,4 @@
+- I have an array of doors
+- For each level I'm on, I must select that door.
+- doors move from right to left at a designated speed.
+- If I click a door that shouldn't be clicked, I'm out! iCry:tm:
